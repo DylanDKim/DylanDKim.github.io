@@ -5,8 +5,8 @@ import Grid from "./Grid";
 export default function Home() {
   return (
     <>
-      <div className="relative container mx-auto grid md:grid-cols-8 border-4">
-        <div className="md:col-start-2 sm: col-start-1 md:col-span-6 border-2">
+      <div className="relative container mx-auto grid md:grid-cols-8 ">
+        <div className="md:col-start-2 sm: col-start-1 md:col-span-6 ">
           <h3 className="text-xl mt-20 text-offBlack font-semibold">
             Software Engineer & Product Designer
           </h3>

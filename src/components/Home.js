@@ -17,9 +17,9 @@ export default function Home() {
             I love to code, design, and create.
           </h1>
           <p className="my-10 text-offBlack md:font-light">
-            With a background in UX Design and Computer Science, I bring an
-            digital experience both fashionable and functional. Thanks for
-            taking the time to view my work!
+            With a background in UX Design and Computer Science, I strive to
+            build end-to-end digital experiences that are both fashionable and
+            functional. Thanks for taking the time to view my work!
           </p>
           <Grid />
         </div>

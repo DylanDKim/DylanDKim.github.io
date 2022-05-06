@@ -12,6 +12,8 @@ module.exports = {
         offBlack: "#585858",
         offWhite: "#FAF9F6",
         strongpurp: "#6d19de",
+        lightGrey: "#3f3f3f",
+        red: "#FF0000",
       },
     },
   },

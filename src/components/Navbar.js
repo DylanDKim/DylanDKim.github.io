@@ -79,9 +79,9 @@ export default function Navbar() {
                       </div>
                       <div className="relative mt-6 flex-1 px-4 sm:px-6 flex-col">
                         <ul className="menu">
-                          <li className="text-2xl text-offBlack my-8 py-2 menu-option">
+                          {/* <li className="text-2xl text-offBlack my-8 py-2 menu-option">
                             <a href="https://www.google.com">About</a>
-                          </li>
+                          </li> */}
                           <li className="text-2xl text-offBlack my-8 py-2 menu-option">
                             <a href="https://www.github.com/dylandkim">
                               Github
@@ -90,9 +90,9 @@ export default function Navbar() {
                           <li className="text-2xl text-offBlack my-8 py-2 menu-option">
                             <a href="https://dribbble.com/DohyunK">Dribbble</a>
                           </li>
-                          <li className="text-2xl text-offBlack my-8 py-2 menu-option">
+                          {/* <li className="text-2xl text-offBlack my-8 py-2 menu-option">
                             <a href="www.google.com">Download Resume</a>
-                          </li>
+                          </li> */}
                           <li className="text-2xl text-offBlack my-8 py-2 menu-option">
                             <a href="https://www.linkedin.com/in/dylandkim/">
                               <svg

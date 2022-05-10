@@ -3,7 +3,10 @@ import React, { useState, useEffect } from "react";
 export default function Grid() {
   return (
     <section className="grid md:grid-cols-3 gap-5 my-16 mx-auto">
-      <a href="https://github.com/MKT-Servers" className=" projbox max-w-md">
+      <a
+        href="https://github.com/4billy/betrothed"
+        className=" projbox max-w-md"
+      >
         <div className="img-overlay betrothed">
           <h3 className="text-3xl font-bold proj-header ">Betrothed</h3>
           <p className="text-sm font-medium proj-descrip px-8">
@@ -29,7 +32,10 @@ export default function Grid() {
           src="https://images.unsplash.com/photo-1578681994506-b8f463449011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
         />
       </a>
-      <a href="https://github.com/MKT-Servers" className=" projbox max-w-md">
+      <a
+        href="https://github.com/TheHackMasters/FECapstone"
+        className=" projbox max-w-md"
+      >
         <div className="img-overlay solil">
           <h3 className="text-3xl font-bold proj-header">Soliloquy</h3>
           <p className="text-sm font-medium proj-descrip  px-8">
